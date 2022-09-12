@@ -1,0 +1,85 @@
+body {
+  
+    background-image: url("foodback.jpg") ;
+    background-repeat: no-repeat;
+    background-size:  1260px 600px;
+    width: 1159px;
+    
+   
+    
+}
+#contact {
+    position: relative;
+
+} 
+#contact-box form {
+    width: 20%;
+}
+
+
+#contact-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+    
+    }
+
+
+#contact-box input,
+#contact-box textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 100px;
+    font-size: 1.1rem;
+}
+
+#contact-box form {
+    width: 40%;
+    
+}
+
+#contact-box label {
+    font-size: 1.2rem;
+    font-family: 'Bree Serif', serif;
+
+}
+
+.h-contact {
+    font-family: 'Bree Serif', serif;
+    font-size: 2.3rem;
+    padding: 0px;
+    background-blend-mode: darken;
+    color: aliceblue;
+            font-family: system-ui;
+            font-size: 3rem;
+            padding: -9px;
+            background-blend-mode: normal;
+            color:
+   
+    
+}
+
+
+
+
+.center {
+    text-align: center;
+}
+
+.btn {
+    padding: 6px 20px;
+    border: 2px solid white;
+    background-color: rgb(111, 62, 5);
+    color: white;
+    margin: 17px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.back 
+{
+     background-color: aliceblue;
+
+}
